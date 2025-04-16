@@ -1,1 +1,1 @@
-# InstaToon
+# TutorAI
